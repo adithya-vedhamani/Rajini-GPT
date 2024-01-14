@@ -14,7 +14,7 @@ Building the Rajini GPT! This project is dedicated to creating a Rajinikanth AI 
 
 ## Getting Started
 
-1. **Clone the Repository:**
+ **Clone the Repository:**
    ```bash
    git clone https://github.com/adithya-vedhamani/Rajini-GPT.git
    

@@ -1,3 +1,22 @@
+# RajiniBot: The Rajinikanth AI Chatbot
+
+Building the RajiniBot! This project is dedicated to creating a Rajinikanth AI bot that brings the legendary style and charisma of Rajinikanth to your conversations.
+
+## Key Features
+
+- **Natural Language Understanding:** Communicate with RajiniBot just like you would with the real Rajinikanth.
+- **Machine Learning-Based Training:** Boost response accuracy using powerful prompts and machine learning.
+- **OpenAI GPT-4 Model:** Leverage the incredible GPT-4 model for generating authentic Rajinikanth-style responses.
+- **Personalized Conversations:** Tailor responses based on user interactions for a genuine experience.
+- **Integration with NextJS and Flask:** Use NextJS for front-end and Flask for server-side operations.
+
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/adithya-vedhamani/Rajini-GPT.git
+   
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

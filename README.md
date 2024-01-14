@@ -1,6 +1,8 @@
 # RajiniBot: The Rajinikanth AI Chatbot
 
-Building the RajiniBot! This project is dedicated to creating a Rajinikanth AI bot that brings the legendary style and charisma of Rajinikanth to your conversations.
+Building the Rajini GPT! This project is dedicated to creating a Rajinikanth AI bot that brings the legendary style and charisma of Rajinikanth to your conversations.
+
+![image](https://github.com/adithya-vedhamani/Rajini-GPT/assets/73640313/ca8a51e3-36e8-419f-9a0a-b84e1e3b13ec)
 
 ## Key Features
 

@@ -22,11 +22,11 @@ def kanye_bot():
         message = request_json['message']
 
         # mindsdb is a MySQL db so these are the credentials
-        user = 'adithyavedhamani@gmail.com'  
-        password = '39cS.xLU.MJ2Gwi' 
-        host = 'cloud.mindsdb.com'
-        port = 3306
-        database = 'mindsdb'
+        user = 'username'  
+        password = 'password' 
+        host = 'hostname'
+        port = 'port no'
+        database = 'database'
 
         # initializing the db connection
         def get_connection(user, password, host, port, database):
